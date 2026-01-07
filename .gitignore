@@ -1,0 +1,23 @@
+productsCatalog/node_modules/
+productsCatalog/vendor/
+productsCatalog/.env
+productsCatalog/.env.backup
+productsCatalog/storage/*.key
+productsCatalog/public/hot
+productsCatalog/public/storage
+productsCatalog/.phpunit.result.cache
+productsCatalog/Homestead.json
+productsCatalog/Homestead.yaml
+productsCatalog/npm-debug.log
+productsCatalog/yarn-error.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,20 @@
+{
+    "name": "fullstack-laravel-dev-test/products-crawler",
+    "description": "Standalone PHP crawler for extracting products",
+    "require": {
+        "guzzlehttp/guzzle": "^7.10",
+        "symfony/dom-crawler": "^7.4",
+        "symfony/css-selector": "^7.4"
+    },
+    "autoload": {
+        "psr-4": {
+             "FullstackLaravelDevTest\\Crawler\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhammad Arsalan",
+            "email": "mharslan193@gmail.com"
+        }
+    ]
+}
